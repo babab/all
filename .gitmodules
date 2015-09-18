@@ -1,0 +1,84 @@
+[submodule "simphplist"]
+	path = simphplist
+	url = git://github.com/babab/simphplist.git
+[submodule "DisPass"]
+	path = DisPass
+	url = git://github.com/babab/DisPass.git
+[submodule "kebokun"]
+	path = kebokun
+	url = git://github.com/babab/kebokun.git
+[submodule "slate"]
+	path = slate
+	url = git://github.com/babab/slate.git
+[submodule "projectpad"]
+	path = projectpad
+	url = git://github.com/babab/projectpad.git
+[submodule "gitto"]
+	path = gitto
+	url = git://github.com/babab/gitto.git
+[submodule "babab_nl"]
+	path = babab_nl
+	url = git://github.com/babab/babab_nl.git
+[submodule "colemaktutor"]
+	path = colemaktutor
+	url = git://github.com/babab/colemaktutor.git
+[submodule "tuhinga"]
+	path = tuhinga
+	url = git://github.com/babab/tuhinga.git
+[submodule "pycommand"]
+	path = pycommand
+	url = git://github.com/babab/pycommand.git
+[submodule "code.babab.nl"]
+	path = code.babab.nl
+	url = git://github.com/babab/code.babab.nl.git
+[submodule "tagfile"]
+	path = tagfile
+	url = git://github.com/babab/tagfile.git
+[submodule "gim"]
+	path = gim
+	url = git://github.com/babab/gim.git
+[submodule "sti"]
+	path = sti
+	url = git://github.com/babab/sti.git
+[submodule "vim-MagicKey"]
+	path = vim-MagicKey
+	url = git://github.com/babab/vim-MagicKey.git
+[submodule "passvigor"]
+	path = passvigor
+	url = git://github.com/babab/passvigor.git
+[submodule "paul"]
+	path = paul
+	url = git://github.com/babab/paul.git
+[submodule "springwhiz"]
+	path = springwhiz
+	url = git://github.com/babab/springwhiz.git
+[submodule "gitto-pkgbuild"]
+	path = gitto-pkgbuild
+	url = git://github.com/babab/gitto-pkgbuild.git
+[submodule "dofyon"]
+	path = dofyon
+	url = git://github.com/babab/dofyon.git
+[submodule "dispass-website"]
+	path = dispass-website
+	url = git://github.com/babab/dispass-website.git
+[submodule "vim-djazz"]
+	path = vim-djazz
+	url = git://github.com/babab/vim-djazz.git
+[submodule "youtube-comments-disabler"]
+	path = youtube-comments-disabler
+	url = git://github.com/babab/youtube-comments-disabler.git
+[submodule "springwhiz-php"]
+	path = springwhiz-php
+	url = git://github.com/babab/springwhiz-php.git
+[submodule "menumaker"]
+	path = menumaker
+	url = https://bitbucket.org/babab/menumaker.git
+[submodule "ada-strdate"]
+	path = ada-strdate
+	url = https://bitbucket.org/babab/ada-strdate.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git://github.com/babab/dotfiles.git
+[submodule "docker-apps"]
+	path = docker-apps
+	url = git://github.com/babab/docker-apps.git
