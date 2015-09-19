@@ -11,3 +11,6 @@ install:
 	cd colemaktutor; make install
 	cd gim; make install
 	cd projectpad; make install
+
+commit:
+	git commit -am "Sync at $(shell date +'%F %H:%M')"
