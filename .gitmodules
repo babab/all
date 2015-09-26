@@ -82,3 +82,6 @@
 [submodule "docker-apps"]
 	path = docker-apps
 	url = git://github.com/babab/docker-apps.git
+[submodule "wdocker"]
+	path = wdocker
+	url = git://github.com/babab/wdocker.git
